@@ -1,0 +1,3 @@
+[submodule "OCI-artwork-and-logos"]
+	path = OCI-artwork-and-logos
+	url = https://github.com/rossonet/artwork

@@ -1,5 +1,7 @@
 # Rossonet logos and images
 
+Copyright © Rossonet s.c.a r.l. 2022-2032 All Rights Reserved
+
 ![https://raw.githubusercontent.com/rossonet/images/main/artwork/rossonet-logo/png/rossonet-logo-01.png](https://github.com/rossonet/images/blob/main/artwork/rossonet-logo/png/rossonet-logo-01.png)
 rossonet-logo-01.png
 
